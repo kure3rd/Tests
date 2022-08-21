@@ -9,6 +9,9 @@ ipykernel = "*"
 pyro-ppl = "*"
 matplotlib = "*"
 jupyter = "*"
+beautifulsoup4 = "*"
+pandas = "*"
+tqdm = "*"
 
 [dev-packages]
 
